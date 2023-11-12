@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+*{
+  font-family: 'Lato', sans-serif;
+}
+/* The emerging W3C standard
+   that is currently Firefox-only */
+   * {
+    scrollbar-width: thin;
+    scrollbar-color: #A21942 #1a0f1d;
+ }
+ 
+ /* Works on Chrome/Edge/Safari */
+ *::-webkit-scrollbar {
+    width: 9px;
+ 
+ }
+ 
+ *::-webkit-scrollbar-track {
+    background: #1a0f1d;
+ }
+ 
+ 
+ *::-webkit-scrollbar-thumb {
+    background-color: #A21942;
+    border-radius: 20px;
+    border: 2px solid #1a0f1d;
+ }
+/* body{
+  color: #A21942;
+  background: #a9b1af94;
+} */
+
+.deskMenu li>a.active{
+  padding-bottom: 10px;
+  color:#6d6d6d9a;
+@apply border-b-[#4b2b53]	border-b-4 
+}
+.mobileMenu li>a.active{
+  color:rgb(128, 94, 94);
+  @apply border-b-[#4b2b53]	border-b-2
+}
+.deskMenu li>a{
+@apply px-3
+}
+.mobileMenu{
+  @apply min-w-full bg-[#292526ad] px-6
+}
+.mobileMenu>li{
+  @apply  w-full  pl-0 pb-4  min-w-full
+}

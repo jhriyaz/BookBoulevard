@@ -1,0 +1,9 @@
+
+.banner{
+    background: url('../../../assets/images/banner.jpg') #4b2b53bd;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-weight: 600;
+}

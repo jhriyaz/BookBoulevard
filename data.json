@@ -1,0 +1,53 @@
+ [
+    {
+      image: "https://i.ibb.co/KqVTk2h/images.jpg",
+      name: "The Great Gatsby",
+      quantity: 10,
+      author: "F. Scott Fitzgerald",
+      category: "Novel",
+      description: "The Great Gatsby is a classic novel about the American Dream, set in the 1920s, and follows the life of Jay Gatsby and his unrequited love for Daisy Buchanan. It explores themes of wealth, love, and the American Dream in the Jazz Age.",
+      rating: 4,
+      sneakPeek: "In the dazzling streets of 1920s New York City, amidst the clinking of glasses and the laughter of the rich and famous, Jay Gatsby stood alone, gazing at the green light at the end of Daisy Buchanan's dock, a beacon of his unattainable dreams. The opulent parties at Gatsby's mansion were the talk of the town, and his extravagant wealth was the subject of speculation and envy. Yet, beneath the veneer of luxury and excess lay a story of unfulfilled yearning."
+    },
+    {
+      image: "https://i.ibb.co/KqVTk2h/images.jpg",
+      name: "The Girl with the Dragon Tattoo",
+      quantity: 8,
+      author: "Stieg Larsson",
+      category: "Thriller",
+      description: "A gripping thriller that follows journalist Mikael Blomkvist and computer hacker Lisbeth Salander as they investigate a decades-old disappearance and a wealthy family's secrets. This novel delves into dark family secrets and conspiracies.",
+      rating: 4.5,
+      sneakPeek: "On the eve of his 82nd birthday, Henrik Vanger received a peculiar gift, a withered flower, a reminder of a chilling mystery that had haunted him for years. This year, it was time to unravel the enigma that was the Vanger family. In the heart of Sweden, on the remote Hedeby Island, a sprawling estate harbors a dark past filled with secrets, lies, and unsolved mysteries."
+    },
+    {
+      image: "https://i.ibb.co/KqVTk2h/images.jpg",
+      name: "A Brief History of Time",
+      quantity: 5,
+      author: "Stephen Hawking",
+      category: "Science",
+      description: "A renowned physicist's exploration of the universe, black holes, and the nature of time, written in a way that's accessible to non-scientists. This book tackles complex concepts in a highly readable manner.",
+      rating: 5,
+      sneakPeek: "Join renowned physicist Stephen Hawking on a journey through the cosmos, where black holes, the nature of time, and the fundamental laws of the universe are unravelled in a way that will leave you in awe."
+    },
+    {
+      image: "https://i.ibb.co/KqVTk2h/images.jpg",
+      name: "To Kill a Mockingbird",
+      quantity: 12,
+      author: "Harper Lee",
+      category: "Drama",
+      description: "A powerful story about racial injustice and moral growth, as seen through the eyes of a young girl in the American South during the 1930s. The novel explores themes of racism and morality.",
+      rating: 4.7,
+      sneakPeek: "In the small Southern town of Maycomb, Alabama, young Scout Finch navigates the complexities of racial injustice and moral dilemmas as her father, Atticus, defends a black man wrongly accused of a crime."
+    },
+    {
+      image: "https://i.ibb.co/KqVTk2h/images.jpg",
+      name: "Dune",
+      quantity: 6,
+      author: "Frank Herbert",
+      category: "Sci-Fi",
+      description: "An epic science fiction novel set in a distant future where politics, religion, and technology collide on a desert planet called Arrakis.",
+      rating: 4.2,
+      sneakPeek: "On the arid sands of Arrakis, a desert planet known for its valuable spice, Paul Atreides embarks on a journey of destiny, power, and survival, where the sands conceal secrets and treacherous plots."
+    }
+  ];
+  
